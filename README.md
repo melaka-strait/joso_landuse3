@@ -11,7 +11,7 @@ https://melaka-strait.github.io/joso_landuse3/{z}/{x}/{y}.png
 
 ## 凡例
 
-![凡例](legend_landuse.png)
+![凡例](landuse_legend.png)
 
 ## 備考
 QTilesを使用して生成。
